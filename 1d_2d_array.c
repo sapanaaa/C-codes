@@ -1,3 +1,4 @@
+//concept of 1D and 2D array
 #include<stdio.h>
 #include<stdlib.h>
 int main()
